@@ -36,6 +36,6 @@ Created during Week 12 of University of Washington Coding Bootcamp. The goal was
 * MySQLWorkbench
 * Terminal/Gitbash
 
-**Authors**
+**Author**
 Heidi Jansen van Rensburg
 

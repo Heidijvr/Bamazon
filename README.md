@@ -1,13 +1,14 @@
 # Bamazon
 
 Created during Week 12 of University of Washington Coding Bootcamp. The goal was to create an Amazon-like store front using Node.js and MySQL.
+An Amazon-like CLI storefront built with mySQL, NODE.js and Inquirer NPM. The app can take in orders from customers, and deplete stock from the store's inventory.
 
-**Getting Started**
+**Deployment**
 
 * Clone repo.
-* Run command in Terminal or Gitbash 'npm install'
-* Run command depending which mode you would like to be on:
-* Customer - 'npm run customer'
+* Run npm install.
+* Build database from mySQL. 
+* At command prompt run node bamazonCustomers.js
 * Run 'ctrl + c' to exit each mode
 
 **What Each JavaScript Does**
@@ -19,22 +20,17 @@ Created during Week 12 of University of Washington Coding Bootcamp. The goal was
 * An indication of the remaining stock in the *'stock_quantity'* table.
 * Asks whether the user would like to make another purchase (Y/N)
 
-## Pictures to illustrate
+## Screenshot of this project
 
-**Technologies used**
 
+
+
+**Technologies utilized**
+ 
+* mySQL
 * Node.js
-* Inquire NPM Package (https://www.npmjs.com/package/inquirer)
-* MYSQL NPM Package (https://www.npmjs.com/package/mysql)
-
-**Prerequisites**
-- Node.js - Download the latest version of Node https://nodejs.org/en/
-- Create a MYSQL database called 'Bamazon', reference schema.sql
-
-**Built With**
-
-* MySQLWorkbench
-* Terminal/Gitbash
+* JavaScript
+* NPM Inquirer
 
 **Author**
 Heidi Jansen van Rensburg

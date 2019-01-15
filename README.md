@@ -15,7 +15,8 @@ Created during Week 12 of the University of Washington Coding Bootcamp. The goal
 * Print bamazonCustomer.js to display the available products in the store.
 * The app prompts the customer to choose the product they would like to purchase by indicating the corresponding number on the 
   *'item_id'* table.
-* The available stock of the product of choice is displayed.
+* The name of the product is then displayed as it is visible in the *'product_name'* table, followed by...
+* the available stock of the product of choice.
 * The app then proceeds to prompt the clients to indicate the quantity they wish to order.
 * An indication of the remaining stock in the *'stock_quantity'* table appears after the order.
 * The transaction is finalised when the app proceeds to inquire whether the user would like to make another purchase (Y/N)
@@ -32,6 +33,8 @@ Created during Week 12 of the University of Washington Coding Bootcamp. The goal
 * JavaScript
 * NPM Inquirer
 
+
 **Author**
+
 Heidi Jansen van Rensburg
 

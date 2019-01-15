@@ -1,6 +1,6 @@
 # Bamazon
 
-Created during Week 12 of University of Washington Coding Bootcamp. The goal was to create an Amazon-like CLI storefront with mySQL, NODE.js and Inquirer NPM. The app can take in stock orders from customers, and deplete stock from the store's inventory.
+Created during Week 12 of the University of Washington Coding Bootcamp. The goal was to create an Amazon-like CLI storefront with mySQL, NODE.js and Inquirer NPM. The app can take in stock orders from customers, and deplete stock from the store's inventory.
 
 **Deployment**
 
@@ -10,14 +10,15 @@ Created during Week 12 of University of Washington Coding Bootcamp. The goal was
 * At command prompt run node bamazonCustomers.js
 * Run 'ctrl + c' to exit each mode
 
-**What Each JavaScript Does**
+**How the app works**
 
 * Print bamazonCustomer.js to display the available products in the store.
-* Prompts customer which product they would like to purchase by *'item_id'*.
-* An indication of the amount of stock available.
-* It then proceeds to ask for the quantity of the product.
-* An indication of the remaining stock in the *'stock_quantity'* table.
-* Asks whether the user would like to make another purchase (Y/N)
+* The app prompts the customer to choose the product they would like to purchase by indicating the corresponding number on the 
+  *'item_id'* table.
+* The available stock of the product of choice is displayed.
+* The app then proceeds to prompt the clients to indicate the quantity they wish to order.
+* An indication of the remaining stock in the *'stock_quantity'* table appears after the order.
+* The transaction is finalised when the app proceeds to inquire whether the user would like to make another purchase (Y/N)
 
 ## Screenshot of this project
 

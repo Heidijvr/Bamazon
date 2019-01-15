@@ -17,6 +17,7 @@ Created during Week 12 of the University of Washington Coding Bootcamp. The goal
   *'item_id'* table.
 * The name of the product is then displayed as it is visible in the *'product_name'* table, followed by...
 * the available stock of the product of choice.
+* There would be an indication if there is *'not sufficient stock'* available.
 * The app then proceeds to prompt the clients to indicate the quantity they wish to order.
 * An indication of the remaining stock in the *'stock_quantity'* table appears after the order.
 * The transaction is finalised when the app proceeds to inquire whether the user would like to make another purchase (Y/N)

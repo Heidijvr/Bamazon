@@ -1,7 +1,6 @@
 # Bamazon
 
-Created during Week 12 of University of Washington Coding Bootcamp. The goal was to create an Amazon-like store front using Node.js and MySQL.
-An Amazon-like CLI storefront built with mySQL, NODE.js and Inquirer NPM. The app can take in orders from customers, and deplete stock from the store's inventory.
+Created during Week 12 of University of Washington Coding Bootcamp. The goal was to create an Amazon-like CLI storefront with mySQL, NODE.js and Inquirer NPM. The app can take in stock orders from customers, and deplete stock from the store's inventory.
 
 **Deployment**
 
@@ -22,7 +21,7 @@ An Amazon-like CLI storefront built with mySQL, NODE.js and Inquirer NPM. The ap
 
 ## Screenshot of this project
 
-![Alt text](https://github.com/Heidijvr/Bamazon/blob/a94d96b141648b4f75946ae59544db08bc3af848/images/screenshot1.png)
+![Alt Bamazon](https://github.com/Heidijvr/Bamazon/blob/a94d96b141648b4f75946ae59544db08bc3af848/images/screenshot1.png)
 
 
 **Technologies utilized**

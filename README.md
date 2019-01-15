@@ -22,7 +22,7 @@ An Amazon-like CLI storefront built with mySQL, NODE.js and Inquirer NPM. The ap
 
 ## Screenshot of this project
 
-
+![Alt text](https://github.com/Heidijvr/Bamazon/blob/a94d96b141648b4f75946ae59544db08bc3af848/images/screenshot1.png)
 
 
 **Technologies utilized**
